@@ -55,3 +55,29 @@ let num8=400;
 let num9=20;
 let division = num8/num9;
 console.log(division);
+
+
+let name='Satya'
+let city="Bhubaneswar"
+let age1=23;
+let roll=2305274103;
+let college="USBM"
+let batch="MCA"
+let varr= `my name is ${name}, i am from ${city},roll is :${roll},and i am pursuing my mca degree from ${college},${city} {batch} `;
+console.log(varr)
+
+
+
+//to check the length of the  string
+console.log(city.length);//11
+
+let string =" satya ";
+console.log(string.length);
+console.log(string.length-2);
+
+
+let num =100;
+let num0 = "100";
+console.log(num+num0);
+
+console.log(num-num0);
