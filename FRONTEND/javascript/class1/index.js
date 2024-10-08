@@ -110,11 +110,12 @@ console.log(string.length-2);
 
 // type of coercion:
 let score1 =100;
-let score2 = "100"; 
-let coercedaddition = score1 + score2 ;
+let score3 = "100";
+let coercedaddition = score1 + score3 ;
+
 console.log(coercedaddition);
 
-console.log(score1-score2);
+console.log(score1-score3);
  
 //let my_website = "www.qlith.com";
 console.log(my_website.replace(".", "-"));
