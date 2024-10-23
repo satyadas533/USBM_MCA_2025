@@ -1,6 +1,6 @@
 # USBM_MCA_2025
 The complete MERN stack course.
-<h1 align="center">Hi 👋, I'm Pramod Kumar Satyaranjan Das</h1>
+<h1 align="center">Hi 👋, I'm  Satyaranjan Das</h1>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
